@@ -12,5 +12,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhikonkal&theme=algolia&title_color=89cff0&include_all_commits=true&count_private=true&show_icons=true" height="150px" alt="Abhinav's GitHub stats" />
-  <img align="center" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikonkal&langs_count=8&hide=scss,css,html&layout=compact&card_width=350" height="150px" alt="Abhinav's programming language stats" />
+  <img align="center" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhikonkal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
